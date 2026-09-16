@@ -6,6 +6,12 @@
 
 整理日期：2026-09-17　｜　专题方向：复查实践
 
+<!-- article-chain:start -->
+
+> 系列导航：[全部文章目录](https://github.com/TGmszrcsz/baccarat-ai-index) ｜ [上一篇：第 092 篇 - 百家乐Ai预测分析工具：切换房间后检查是否混入旧数据](https://github.com/TGmszrcsz/baccarat-ai-092) ｜ [下一篇：第 094 篇 - 百家乐Ai预测分析工具：连续运行一段时间后怎样做阶段复盘](https://github.com/TGmszrcsz/baccarat-ai-094)
+
+<!-- article-chain:end -->
+
 断线期间未采集数据，恢复后列表从新局继续显示。本篇围绕“网络中断再恢复时怎样补齐历史”展开，结合现有界面示例，说明判断依据、核对顺序和需要保留的记录。
 
 ## 一、本篇解决的阅读问题
